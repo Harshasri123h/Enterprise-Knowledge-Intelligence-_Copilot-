@@ -1,0 +1,51 @@
+employee_id,name,role,department,email,phone,location,salary
+1,Alice Johnson,Data Scientist,Operations,alice.johnson@company.com,555-0100,New York,126884
+2,Bob Smith,Software Engineer,Operations,bob.smith@company.com,555-0101,Los Angeles,65452
+3,Carol Lee,UX Designer,Engineering,carol.lee@company.com,555-0102,Los Angeles,92239
+4,David Kumar,HR Manager,Data,david.kumar@company.com,555-0103,Chicago,88629
+5,Emma Brown,Marketing Specialist,Product,emma.brown@company.com,555-0104,Seattle,90237
+6,Frank Wilson,Software Engineer,Operations,frank.wilson@company.com,555-0105,Boston,116549
+7,Grace Kim,UX Designer,Marketing,grace.kim@company.com,555-0106,Austin,111996
+8,Henry Patel,Product Manager,Marketing,henry.patel@company.com,555-0107,San Francisco,116296
+9,Ivy Chen,Marketing Specialist,Product,ivy.chen@company.com,555-0108,Seattle,98408
+10,Jack Miller,Marketing Specialist,Data,jack.miller@company.com,555-0109,Los Angeles,116409
+11,Karan Mehta,Product Manager,Product,karan.mehta@company.com,555-0110,Boston,72411
+12,Liam Davis,QA Engineer,Engineering,liam.davis@company.com,555-0111,Seattle,73266
+13,Mia Garcia,DevOps Engineer,Data,mia.garcia@company.com,555-0112,Denver,113237
+14,Noah Martinez,DevOps Engineer,Engineering,noah.martinez@company.com,555-0113,Austin,99217
+15,Olivia Taylor,UX Designer,Engineering,olivia.taylor@company.com,555-0114,Chicago,81050
+16,Paul Anderson,Data Scientist,Operations,paul.anderson@company.com,555-0115,Boston,66963
+17,Quinn Roberts,HR Manager,Engineering,quinn.roberts@company.com,555-0116,Seattle,83454
+18,Riya Singh,QA Engineer,Marketing,riya.singh@company.com,555-0117,Los Angeles,110923
+19,Sam Thompson,UX Designer,Engineering,sam.thompson@company.com,555-0118,Chicago,123773
+20,Tina Lopez,QA Engineer,Product,tina.lopez@company.com,555-0119,Los Angeles,113370
+21,Uma Nair,Product Manager,Engineering,uma.nair@company.com,555-0120,Denver,103181
+22,Victor Young,Software Engineer,Operations,victor.young@company.com,555-0121,Austin,74351
+23,Wendy Zhao,HR Manager,HR,wendy.zhao@company.com,555-0122,New York,65067
+24,Xavier Clark,HR Manager,Operations,xavier.clark@company.com,555-0123,Denver,89652
+25,Yara Hassan,DevOps Engineer,HR,yara.hassan@company.com,555-0124,Seattle,107349
+26,Zane Walker,UX Designer,Operations,zane.walker@company.com,555-0125,Denver,66210
+27,Aarav Shah,HR Manager,Operations,aarav.shah@company.com,555-0126,Seattle,115498
+28,Bella Moore,QA Engineer,Product,bella.moore@company.com,555-0127,Chicago,65046
+29,Chris Evans,Marketing Specialist,Operations,chris.evans@company.com,555-0128,Boston,120925
+30,Diana Scott,Marketing Specialist,Marketing,diana.scott@company.com,555-0129,San Francisco,127388
+31,Ethan Wright,Data Scientist,Marketing,ethan.wright@company.com,555-0130,San Francisco,84283
+32,Fiona Green,HR Manager,Engineering,fiona.green@company.com,555-0131,Austin,92090
+33,George Hall,Data Scientist,Data,george.hall@company.com,555-0132,Seattle,119982
+34,Hannah Adams,Marketing Specialist,HR,hannah.adams@company.com,555-0133,Boston,121433
+35,Ian Turner,Product Manager,Product,ian.turner@company.com,555-0134,Boston,113157
+36,Julia Baker,DevOps Engineer,Product,julia.baker@company.com,555-0135,Seattle,87908
+37,Kevin Nelson,Data Scientist,Data,kevin.nelson@company.com,555-0136,Chicago,119436
+38,Laura Perez,Marketing Specialist,Marketing,laura.perez@company.com,555-0137,Boston,77575
+39,Mike Carter,Data Scientist,Marketing,mike.carter@company.com,555-0138,Denver,103998
+40,Nina Brooks,Data Scientist,Marketing,nina.brooks@company.com,555-0139,San Francisco,83291
+41,Owen Reed,Marketing Specialist,Operations,owen.reed@company.com,555-0140,San Francisco,107515
+42,Priya Verma,Product Manager,Engineering,priya.verma@company.com,555-0141,Seattle,112666
+43,Ryan Cooper,Software Engineer,Marketing,ryan.cooper@company.com,555-0142,Seattle,78562
+44,Sophia Collins,HR Manager,Engineering,sophia.collins@company.com,555-0143,Seattle,94669
+45,Tom Edwards,HR Manager,Engineering,tom.edwards@company.com,555-0144,Seattle,97573
+46,Usha Iyer,UX Designer,Operations,usha.iyer@company.com,555-0145,New York,122785
+47,Vikram Rao,QA Engineer,Data,vikram.rao@company.com,555-0146,Boston,88672
+48,Will Foster,Data Scientist,Engineering,will.foster@company.com,555-0147,Denver,84854
+49,Xena Patel,DevOps Engineer,Engineering,xena.patel@company.com,555-0148,Seattle,96978
+50,Yusuf Ali,Data Scientist,Data,yusuf.ali@company.com,555-0149,Austin,122621

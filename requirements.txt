@@ -1,0 +1,5 @@
+langchain_community
+langchain_text_splitters
+langchain_ollama
+langchain_groq
+langchain_core

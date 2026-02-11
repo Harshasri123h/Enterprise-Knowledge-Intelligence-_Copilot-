@@ -1,0 +1,14 @@
+# virtual env
+venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# streamlit
+.streamlit/
+
+# vector stores
+*.faiss
+*.pkl

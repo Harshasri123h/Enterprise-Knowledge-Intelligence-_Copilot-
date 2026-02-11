@@ -159,8 +159,4 @@ Trade-offs between chunk size & overlap
 
 How this system scales in enterprise settings
 
-👤 Author
-
-Srimathi M
-GenAI / AI Engineer | Data Engineering Background
 Snowflake Certified | LangChain | RAG | LLMs

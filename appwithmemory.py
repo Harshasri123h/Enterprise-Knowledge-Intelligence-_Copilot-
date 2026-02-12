@@ -4,7 +4,7 @@ import os
 from langchain_community.document_loaders import PyPDFLoader, CSVLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
-from langchain_ollama import OllamaEmbeddings, OllamaLLM
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.retrievers.bm25 import BM25Retriever
 from langchain_groq import ChatGroq
 
@@ -53,7 +53,10 @@ chunks = splitter.split_documents(documents)
 # -------------------------------------------------------
 # EMBEDDINGS + VECTOR STORE
 # -------------------------------------------------------
-embeddings = OllamaEmbeddings(model="nomic-embed-text")
+embeddings = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
+
 vectorstore = FAISS.from_documents(chunks, embeddings)
 
 vector_retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
@@ -67,7 +70,7 @@ bm25_retriever.k = 4
 # -------------------------------------------------------
 # LLM
 # -------------------------------------------------------
-llm=ChatGroq(model="llama-3.1-8b-instant",groq_api_key=os.getenv("GROQ_API_KEY"))
+llm=ChatGroq(model="llama-3.1-8b-instant",groq_api_key = st.secrets["GROQ_API_KEY"]
 
 
 # -------------------------------------------------------
@@ -195,3 +198,4 @@ for chat in st.session_state.chat_history:
         st.write(f"- {src}")
 
     st.markdown("---")
+

@@ -1,5 +1,10 @@
-langchain_community
-langchain_text_splitters
-langchain_ollama
-langchain_groq
-langchain_core
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+groq
+rank_bm25
+pypdf
+python-dotenv
